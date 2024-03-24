@@ -468,7 +468,7 @@ h3 {
 }
 
 .features-icon {
-  stroke: #29a396;
+  stroke: #293ba3;
   width: 32px;
   height: 32px;
   margin-bottom: 24px;
@@ -502,7 +502,7 @@ h3 {
   grid-column: 2 / -1;
   align-self: center;
   border-radius: 12px;
-  background-color: #165f56;
+  background-color: #293ba3;
   padding: 30px;
 }
 
@@ -516,7 +516,7 @@ h3 {
   margin-bottom: 24px;
   font-size: 16px;
   line-height: 1.7;
-  color: #c3fae8;
+  color: #71b7e6;
 }
 
 /* End Testimonial */
@@ -529,7 +529,7 @@ h3 {
   margin-top: 30px;
   padding: 30px;
 
-  color: #ccc;
+  color: #83c2ec; 
 }
 
 .c-service {
@@ -544,12 +544,12 @@ h3 {
 
 .about-us {
   line-height: 1.7;
-  color: #ccc;
+  color: #83c2ec; 
 }
 
 .costumer-service {
   line-height: 1.7;
-  color: #ccc;
+  color: #83c2ec; 
 }
 
 /* End  Support */
@@ -557,9 +557,9 @@ h3 {
 /* Footer */
 .footer {
   padding: 30px 0;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #83c2ec; 
   text-align: center;
-  color: #ccc;
+  color: #83c2ec; 
 }
 
 .features-title-s {
@@ -569,11 +569,11 @@ h3 {
 }
 
 .features-title-s {
-  color: rgba(204, 204, 204, 0.984);
+  color: #83c2ec; 
 }
 
 .features-title-s:hover {
-  color: #29a396;
+  color: #293ba3;
 }
 /* End Footer */
 

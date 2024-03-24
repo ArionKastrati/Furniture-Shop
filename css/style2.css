@@ -14,7 +14,7 @@ body {
   margin-left: 10%;
   min-height: 100vh;
   background: radial-gradient(#111, #071a1a);
-  color: #fff;
+  color: #83c2ec; 
   overflow-x: hidden;
   /* background: url(https://raw.githubusercontent.com/programmercloud/pgc-gym/main/img/blur-1.png); */
 }
@@ -28,7 +28,7 @@ body {
 /*END HEADER */
 
 h2 span {
-  color: #29a396;
+  color: #293ba3; 
 }
 
 h2 {
@@ -50,8 +50,8 @@ h2 {
 
 .btn:link,
 .btn:visited {
-  background-color: #29a396;
-  color: #fff;
+  background-color: #293ba3;
+  color: #83c2ec; 
   text-decoration: none;
   text-transform: uppercase;
   display: inline-block;
@@ -60,7 +60,7 @@ h2 {
 }
 .btn:active,
 .btn:hover {
-  background-color: #165f56;
+  background-color: #293ba3;
 }
 .btn--big {
   padding: 16px 32px;
@@ -84,7 +84,7 @@ img {
   border-bottom-right-radius: 0;
 }
 .chair {
-  box-shadow: 0 20px 30px 0 rgba(136, 135, 135, 0.07);
+  box-shadow: 0 20px 30px 0 rgba(94, 92, 92, 0.07);
   border-radius: 12px;
 }
 .chair-box {
@@ -113,7 +113,7 @@ h3 {
   }
   
   .chair-icon {
-    stroke: #29a396;
+    stroke: #293ba3;
     height: 24px;
     height: 24px;
   }

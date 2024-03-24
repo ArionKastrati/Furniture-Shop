@@ -37,10 +37,10 @@ if(!isset($user_id)){
   
           <ul class="nav">
             <li class="nav-item"><a href="#">Home</a></li>
-            <li class="nav-item"><a href="#why-us">Features</a></li>
-            <li class="nav-item"><a href="#testimonial">Testimonial</a></li>
-            <li class="nav-item"><a href="#products">Products</a></li>
-            <li class="nav-item"><a href="slider.html">Support</a></li>
+            <li class="nav-item"><a href="#why-us">Characteristics</a></li>
+            <li class="nav-item"><a href="#testimonial">Reference</a></li>
+            <li class="nav-item"><a href="#products">Product</a></li>
+            <li class="nav-item"><a href="slider.html">Assistance</a></li>
           </ul>
   
            <!--- <a href="register_form.php" class="btn">Login</a>-->
@@ -61,8 +61,8 @@ if(!isset($user_id)){
         <div class="container flex">
           <div class="text">
             <h1 class="mb">
-              We design and build <br />
-              better <span>furniture</span>, for a better life
+              We design and create <br />
+              better <span>Furnitures</span>, to feel comfortable to the maximum
             </h1>
   
             <p class="mb">
@@ -85,7 +85,7 @@ if(!isset($user_id)){
       <section>
         <div class="section" id="why-us">
           <h2 class="section-title">
-            What makes our furniture <span>special</span>
+            What make our furnitures <span>special</span>
           </h2>
           <div class="container flex grid-3-cols">
             <div>
@@ -104,9 +104,9 @@ if(!isset($user_id)){
                 />
               </svg>
   
-              <p class="features-title"><strong>Science meets design</strong></p>
+              <p class="features-title"><strong>Science meets dessign</strong></p>
               <p class="features-text">
-                The modern style is all about clearer looks with minimal ornaments. The more focus is on clean lines, geometric shapes, and angles.
+              Modern style emphasizes clean lines, geometric shapes, and angles, minimizing ornamentation.
               </p>
             </div>
   
@@ -130,7 +130,7 @@ if(!isset($user_id)){
                 <strong>Maximal comfort</strong>
               </p>
               <p class="features-text">
-                In addition to aesthetic and functional features our furniture is also known, for its comfort and high stability.
+              Aside from its aesthetic and functional characteristics, our furniture is renowned for its comfort and exceptional stability.
               </p>
             </div>
   
@@ -154,7 +154,7 @@ if(!isset($user_id)){
                 <strong>Ethical and sustainable</strong>
               </p>
               <p class="features-text">
-                For years, we’ve been familiar with the term “minimalist design” and the characteristic of a simple design with light colours.
+              For years, we've been acquainted with the concept of "minimalist design," known for its simplicity and preference for light colors.
               </p>
             </div>
           </div>
@@ -172,11 +172,11 @@ if(!isset($user_id)){
             />
           </div>
           <div class="testimonial-box">
-            <h2>"We couldn't live without these chairs anymore"</h2>
+            <h2>"These chairs have become indispensable to us;"</h2>
             <blockquote class="testimonial-text">
-              I can honestly say of all the companies we have dealt with in recent years, the your company are probably the best we have encountered for customer service, reliability and quality of product. One of the rare occasions where it really is worth paying more and we can see the difference
+            Our company is likely the best we've encountered in recent years for customer service, reliability, and product quality. It's one of those rare instances where paying more is genuinely worth it, and we can see the difference.
             </blockquote>
-            <p class="testimonial-author">&mdash; Tom and Sarah Johnson</p>
+            <p class="testimonial-author">&mdash; Tom and Sara</p>
           </div>
         </div>
       </div>
@@ -444,7 +444,7 @@ if(!isset($user_id)){
        <!-- <div class="discount-text"> -->
           <div class="about-us">
           <h2 class="primary mb"> About <span>Us</span> </h2>
-          <p><a href="#" class="features-title-s">More About Us</a></p>
+          <p><a href="#" class="features-title-s">About Us</a></p>
           <p><a href="#" class="features-title-s">Furniture Professional</a></p>
           <p><a href="#" class="features-title-s">Careers</a></p>
           <p><a href="#" class="features-title-s">Locations</a></p>

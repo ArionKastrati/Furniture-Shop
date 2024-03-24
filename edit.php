@@ -34,8 +34,8 @@ if (isset($_POST['submit'])) {
     <div class="form-container">
         <form action="" method="post">
             <h3>Edit User</h3>
-            <input type="text" name="name" value="<?php echo $userData['name']; ?>" required placeholder="Enter your name">
-            <input type="email" name="email" value="<?php echo $userData['email']; ?>" required placeholder="Enter your email">
+            <input type="text" name="name" value="<?php echo $userData['name']; ?>" required placeholder="Shenoni Emrin">
+            <input type="email" name="email" value="<?php echo $userData['email']; ?>" required placeholder="Shenoni email">
             <input type="password" name="password" placeholder="Enter new password">
             <select name="user_type">
                 <option value="user" <?php echo ($userData['user_type'] == 'user') ? 'selected' : ''; ?>>User</option>

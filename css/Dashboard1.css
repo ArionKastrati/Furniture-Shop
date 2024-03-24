@@ -7,7 +7,7 @@ body {
     padding: 0;
     font-family: 'Verdana', sans-serif;
     background: radial-gradient(#111, #071a1a);
-    color: #fff;
+    color: rgb(135, 198, 250);
 }
 
 .container {
@@ -29,7 +29,7 @@ table {
 
 .table-heading {
     background-color: #444;
-    color: #fff;
+    color: rgb(135, 198, 250);
 }
 
 .table-heading th {
@@ -47,14 +47,14 @@ table {
 .btn-logout {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #3498db;
-    color: #fff;
+    background-color: #db3434;
+    color:  rgb(135, 198, 250);
     text-decoration: none;
     border-radius: 5px;
 }
 
 .btn-logout:hover {
-    background-color: #2980b9;
+    background-color: #db3434;
 }
 
 .btn-delete,

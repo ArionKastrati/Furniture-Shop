@@ -20,7 +20,7 @@
 html {
     width: 100%;
     height: auto;
-    background:radial-gradient(#111, #071a1a);
+    background:radial-gradient(#72a5df, #72a5df);
 }
 
 body {
@@ -54,7 +54,7 @@ body {
 .testim .arrow {
     display: block;
     position: absolute;
-    color: #eee;
+    color: #74b8f0;
     cursor: pointer;
     font-size: 2em;
     top: 50%;
@@ -77,7 +77,7 @@ body {
 }
 
 .testim .arrow:hover {
-    color:#29a396;
+    color:#093daf;
 }
     
 
@@ -106,7 +106,7 @@ body {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    border: 1px solid #29a396;
+    border: 1px solid #293ba3;
     margin: 0 10px;
     cursor: pointer;
     -webkit-transition: all .5s ease-in-out;    
@@ -120,8 +120,8 @@ body {
 
 .testim .dots .dot.active,
 .testim .dots .dot:hover {
-    background:#29a396;
-    border-color:#29a396;
+    background:#293ba3;
+    border-color:#293ba3;
 }
 
 .testim .dots .dot.active {
@@ -166,14 +166,14 @@ body {
 }
 
 .testim .cont div h2 {
-    color:cadetblue;
+    color:#293ba3;
     font-size: 2.8rem;
     margin: 15px 0;
 }
 
 .testim .cont div p {
     font-size: 1.5em;
-    color: #eee;
+    color: #6ec2e4;
     width: 70%;
     margin: auto;
     line-height: 1.8;
@@ -229,107 +229,108 @@ body {
 
 @-webkit-keyframes testim-scale {
     0% {
-        -webkit-box-shadow: 0px 0px 0px 0px #eee;
-        box-shadow: 0px 0px 0px 0px #eee;
+        -webkit-box-shadow: 0px 0px 0px 0px #83c2ec;
+        box-shadow: 0px 0px 0px 0px #83c2ec;
     }
 
     35% {
-        -webkit-box-shadow: 0px 0px 10px 5px #eee;        
-        box-shadow: 0px 0px 10px 5px #eee;        
+        -webkit-box-shadow: 0px 0px 10px 5px #83c2ec;       
+        box-shadow: 0px 0px 10px 5px #83c2ec;
     }
 
     70% {
-        -webkit-box-shadow: 0px 0px 10px 5px #29a396;        
-        box-shadow: 0px 0px 10px 5px #29a396;        
+        -webkit-box-shadow: 0px 0px 10px 5px #293ba3;      
+        box-shadow: 0px 0px 10px 5px #293ba3;        
     }
 
     100% {
-        -webkit-box-shadow: 0px 0px 0px 0px #29a396;        
-        box-shadow: 0px 0px 0px 0px #29a396;        
+        -webkit-box-shadow: 0px 0px 0px 0px #293ba3;        
+        box-shadow: 0px 0px 0px 0px #293ba3;        
     }
 }
 
+
 @-moz-keyframes testim-scale {
     0% {
-        -moz-box-shadow: 0px 0px 0px 0px #eee;
-        box-shadow: 0px 0px 0px 0px #eee;
+        -moz-box-shadow: 0px 0px 0px 0px #83c2ec; 
+        box-shadow: 0px 0px 0px 0px #83c2ec; 
     }
 
     35% {
-        -moz-box-shadow: 0px 0px 10px 5px #eee;        
-        box-shadow: 0px 0px 10px 5px #eee;        
+        -moz-box-shadow: 0px 0px 10px 5px #83c2ec;    
+        box-shadow: 0px 0px 10px 5px #83c2ec;         
     }
 
     70% {
-        -moz-box-shadow: 0px 0px 10px 5px #29a396;        
-        box-shadow: 0px 0px 10px 5px #29a396;        
+        -moz-box-shadow: 0px 0px 10px 5px #293ba3;         
+        box-shadow: 0px 0px 10px 5px #293ba3;        
     }
 
     100% {
-        -moz-box-shadow: 0px 0px 0px 0px #29a396;        
-        box-shadow: 0px 0px 0px 0px #29a396;        
+        -moz-box-shadow: 0px 0px 0px 0px #293ba3;         
+        box-shadow: 0px 0px 0px 0px #293ba3;        
     }
 }
 
 @-ms-keyframes testim-scale {
     0% {
-        -ms-box-shadow: 0px 0px 0px 0px #eee;
-        box-shadow: 0px 0px 0px 0px #eee;
+        -ms-box-shadow: 0px 0px 0px 0px #83c2ec;
+        box-shadow: 0px 0px 0px 0px #83c2ec;
     }
 
     35% {
-        -ms-box-shadow: 0px 0px 10px 5px #eee;        
-        box-shadow: 0px 0px 10px 5px #eee;        
+        -ms-box-shadow: 0px 0px 10px 5px #83c2ec;      
+        box-shadow: 0px 0px 10px 5px #83c2ec;       
     }
 
     70% {
-        -ms-box-shadow: 0px 0px 10px 5px #29a396;        
-        box-shadow: 0px 0px 10px 5px #29a396;        
+        -ms-box-shadow: 0px 0px 10px 5px #293ba3;         
+        box-shadow: 0px 0px 10px 5px #293ba3;        
     }
 
     100% {
-        -ms-box-shadow: 0px 0px 0px 0px #29a396;        
-        box-shadow: 0px 0px 0px 0px #29a396;        
+        -ms-box-shadow: 0px 0px 0px 0px  #293ba3;    
+        box-shadow: 0px 0px 0px 0px #293ba3;        
     }
 }
 
 @-o-keyframes testim-scale {
     0% {
-        -o-box-shadow: 0px 0px 0px 0px #eee;
-        box-shadow: 0px 0px 0px 0px #eee;
+        -o-box-shadow: 0px 0px 0px 0px #83c2ec; 
+        box-shadow: 0px 0px 0px 0px #83c2ec; 
     }
 
     35% {
-        -o-box-shadow: 0px 0px 10px 5px #eee;        
-        box-shadow: 0px 0px 10px 5px #eee;        
+        -o-box-shadow: 0px 0px 10px 5px #83c2ec;        
+        box-shadow: 0px 0px 10px 5px #83c2ec;         
     }
 
     70% {
-        -o-box-shadow: 0px 0px 10px 5px #29a396;        
-        box-shadow: 0px 0px 10px 5px #29a396;        
+        -o-box-shadow: 0px 0px 10px 5px #293ba3;       
+        box-shadow: 0px 0px 10px 5px #293ba3;       
     }
 
     100% {
-        -o-box-shadow: 0px 0px 0px 0px #29a396;        
-        box-shadow: 0px 0px 0px 0px #29a396;        
+        -o-box-shadow: 0px 0px 0px 0px #293ba3;        
+        box-shadow: 0px 0px 0px 0px #293ba3;        
     }
 }
 
 @keyframes testim-scale {
     0% {
-        box-shadow: 0px 0px 0px 0px #eee;
+        box-shadow: 0px 0px 0px 0px #83c2ec;
     }
 
     35% {
-        box-shadow: 0px 0px 10px 5px #eee;        
+        box-shadow: 0px 0px 10px 5px #83c2ec;       
     }
 
     70% {
-        box-shadow: 0px 0px 10px 5px #29a396;        
+        box-shadow: 0px 0px 10px 5px #293ba3;        
     }
 
     100% {
-        box-shadow: 0px 0px 0px 0px #29a396;        
+        box-shadow: 0px 0px 0px 0px #293ba3;         
     }
 }
 

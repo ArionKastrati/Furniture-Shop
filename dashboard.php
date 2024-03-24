@@ -18,7 +18,7 @@ $run = mysqli_query($conn, $query);
         <table border="1" cellspacing="0" cellpadding="0">  
             <tr class="table-heading"> 
                 <th>ID</th>  
-                <th>Name</th>  
+                <th>Emri</th>  
                 <th>Email</th>  
                 <th>Roli</th> 
                 <th>Action</th>

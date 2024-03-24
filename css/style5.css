@@ -25,29 +25,29 @@
  
  .container .content h3{
     font-size: 30px;
-    color:#f8f4f4;
+    color:#83c2ec; 
  }
  
  .container .content h3 span{
-    background: #165f56;
-    color:#f8f4f4;
+    background: #293ba3;
+    color:#83c2ec; 
     border-radius: 5px;
     padding:0 15px;
  }
  
  .container .content h1{
     font-size: 50px;
-    color:#f8f4f4;
+    color:#83c2ec; 
  }
  
  .container .content h1 span{
-      color: #165f56;
+      color: #293ba3;
  }
  
  .container .content p{
     font-size: 25px;
     margin-bottom: 20px;
-    color:#f8f4f4;
+    color:#83c2ec;
  }
  
  .container .content .btn{
@@ -55,13 +55,13 @@
     padding:10px 30px;
     font-size: 20px;
     background: #333;
-    color:#fff;
+    color:#83c2ec;
     margin:0 5px;
     text-transform: capitalize;
  }
  
  .container .content .btn:hover{
-    background: #165f56;
+    background: #293ba3;
  }
  
  .form-container{
@@ -88,12 +88,11 @@
     font-size: 30px;
     text-transform: uppercase;
     margin-bottom: 10px;
-    color: #165f56;
+    color: #293ba3;
  }
- 
  .form-container form input,
  .form-container form select{
-   border: 2px solid #29a396;
+   border: 2px solid #6497e4;
     width: 100%;
     padding:10px 15px;
     font-size: 17px;
@@ -108,7 +107,7 @@
  
  .form-container form .form-btn{
     background: #333;
-    color:  #165f56;
+    color:  #293ba3;
     text-transform: capitalize;
     font-size: 20px;
     cursor: pointer;
@@ -116,25 +115,25 @@
  
  .form-container form .form-btn:hover{
     background:#333;
-    color: #165f56;
+    color: #293ba3;
  }
  
  .form-container form p{
     margin-top: 10px;
     font-size: 20px;
-    color:#f8f4f4;
+    color:#769eda;
  }
  
  .form-container form p a{
-    color: #165f56;
+    color: #293ba3;
  }
  
  .form-container form .error-msg{
     margin:10px 0;
     display: block;
-    background:#f8f4f4;
-    border: 2px solid #29a396;
-    color:  #165f56;
+    background:#82b2e9;
+    border: 2px solid #293ba3;
+    color:  #293ba3;
     border-radius: 5px;
     font-size: 20px;
     padding:10px;

@@ -60,10 +60,10 @@ if(isset($_POST['submit'])){
          };
       };
       ?>
-      <input type="text" name="name" required placeholder="enter your name">
-      <input type="email" name="email" required placeholder="enter your email">
-      <input type="password" name="password" required placeholder="enter your password">
-      <input type="password" name="cpassword" required placeholder="confirm your password">
+      <input type="text" name="name" required placeholder="Shenoni emrin">
+      <input type="email" name="email" required placeholder="Shenoni emailin">
+      <input type="password" name="password" required placeholder="Shenoni passwordin">
+      <input type="password" name="cpassword" required placeholder="confirmo passwordin">
       <select name="user_type">
          <option value="user">user</option>
          <option value="admin">admin</option>
